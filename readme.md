@@ -7,12 +7,12 @@ Built classification and regression models using housing prices in a new york ho
 The goal is to learn how to predict pricing using different machine learning techniques.
 
 ## Regression Models Used:
-*Linear Regression
-*Random Forest Regressor
-*Gradient Boosting Regressor
-*Ridge Regression
-*Lasso Regression
-*ElasticNet
+* Linear Regression
+* Random Forest Regressor
+* Gradient Boosting Regressor
+* Ridge Regression
+* Lasso Regression
+* ElasticNet
 
 --- 
 
